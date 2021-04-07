@@ -1,0 +1,11 @@
+/httpRequests/
+.DS_Store
+/dist
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+javarush-git.iml
